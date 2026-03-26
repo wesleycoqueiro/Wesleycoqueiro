@@ -4,6 +4,12 @@ Me chamo Wesley Coqueiro Carvalho, tenho 18 anos e sou natural da Bahia.
 Atualmente, estou cursando Engenharia de Software na USF. sou apaixonado por tecnologia e estou buscando me tornar um DEV 👩🏻‍💻.
 
  </a>
+ </a>
+     <a href="https://instagram.com/wesley.c010" target="_blank">
+        <img
+            title="Me siga no Instagram"
+            src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+        />
     <a href="https://github.com/wesleycoqueiro?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
@@ -18,13 +24,7 @@ Atualmente, estou cursando Engenharia de Software na USF. sou apaixonado por tec
             src="https://custom-icon-badges.demolab.com/github/followers/wesleycoqueiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    </a>
-    <a href="https://www.instagram.com/wesley.c010/">
-        <img
-            alt="Instagram"
-            title="Me siga no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"
-        />
+    
 </p>
 
 ---
